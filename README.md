@@ -1,4 +1,4 @@
-# grandchef :fork_and_knife:
+# grandchef :fork_and_knife: :mag:
 Recipe and Cooking assistant app. This application allows you to search for recipes, display them, create a shopping list and a list of favorites.
 
 # Technologies 
