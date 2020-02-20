@@ -11,13 +11,17 @@ Forkify - A recipe search API (forkify-api.herokuapp.com/api)
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine.
 run:
+```
 git clone https://github.com/RodenBrudon/grandchef.git
+```
 ...in your project folder
 
 # Prerequisites
 All dependencies are included in the package.json file. Just make sure you have a package manager isntalled. Ideally 'npm'.
 With 'npm' run:
+```
 npm install
+```
 ...and all dependencies will be automatically installed. 
 
 License
