@@ -2,11 +2,11 @@
 Recipe and Cooking assistant app. This application allows you to search for recipes, display them, create a shopping list and a list of favorites.
 
 # Technologies 
-npm - Package Manager
-Babel - JavaScript transcompiler
-Webpack - JavaScript module bundler
-Axios - Promise based HTTP client for the browser and node.js
-Forkify - A recipe search API (forkify-api.herokuapp.com/api)
+npm - Package Manager <br/>
+Babel - JavaScript transcompiler <br/>
+Webpack - JavaScript module bundler <br/>
+Axios - Promise based HTTP client for the browser and node.js <br/>
+Forkify - A recipe search API (forkify-api.herokuapp.com/api) 
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine.
