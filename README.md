@@ -24,7 +24,7 @@ npm install
 ```
 ...and all dependencies will be automatically installed. 
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 # Acknowledgments
